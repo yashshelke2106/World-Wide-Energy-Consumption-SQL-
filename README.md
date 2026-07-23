@@ -35,6 +35,7 @@ USE energydb2;
 * `consumption`
 * `emission_3`
 * `population`
+*`country`
 
 ---
 
